@@ -9,4 +9,4 @@ OneGate is an application created for attendance for Salesmen. With several feat
 
 ## Notes
 
-App code is in another Private Repositories
+Codes is in a Private Repository
